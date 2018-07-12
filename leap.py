@@ -1,6 +1,6 @@
 a=input()
 a=int(a)
 if(a%4 is 0 and a%100 is 0):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
