@@ -1,0 +1,4 @@
+com\example\demo\AlienController.class
+com\example\demo\model\Alien.class
+com\example\demo\MyJpaApplication.class
+com\example\demo\dao\AlienRepo.class
